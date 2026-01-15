@@ -16,6 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
+      <p>new edit </p>
       <h1>edited using cicd pipeline123</h1>
       <p>edited using webhook ngrok</p>
       <h1>Vite + React</h1>
